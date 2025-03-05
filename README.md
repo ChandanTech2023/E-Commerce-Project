@@ -1,2 +1,15 @@
-# E-Commerce-Project
-This is a fully responsive and visually appealing e-commerce web application developed using HTML, CSS, and JavaScript. The project focuses purely on the frontend, delivering a modern, user-friendly, and interactive UI for seamless browsing across all devices.
+# E-Cart - An E-Commerce Website
+
+E-Cart is a fully responsive ecommerce website, built using HTML, CSS, and JavaScript.
+
+
+
+## Installation
+
+To install **E-Cart**, follow these steps:
+
+Windows:
+
+```bash
+git clone 
+```
